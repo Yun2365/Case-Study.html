@@ -1,6 +1,6 @@
 cd C:\Users\Acer User\Desktop\Project\Image
 git add .
-git commit "add folder with pictures"
+git commit "\Image"
 git push
 # or, if this is your first push:
 git push -u origin master
