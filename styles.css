@@ -182,6 +182,12 @@ th{
     width: 35%;
  }
 
+table    {
+    text-align: centre;
+    margin-left: auto;
+    margin-right: auto;
+}
+
  .week2 {
     margin: 0%;
  }
