@@ -148,11 +148,11 @@ ul  {
 }
 
 .bullet1    {
-    list-style-image: url(image/github.svg);
+    list-style-image: url(Image/panda.png);
 }
 
 .bullet2    {
-    list-style-image: url(image/github.svg);
+    list-style-image: url(Image/bamboo.png);
 }
 
 table{
