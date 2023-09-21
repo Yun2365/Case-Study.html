@@ -142,9 +142,17 @@ img {
 ul  {
     margin-left: 3%;
     margin-right: 5%;
-    list-style-image: url(image/github.svg);
     border-radius: 50px;
 }
+
+.bullet1    {
+    list-style-image: url(image/github.svg);
+}
+
+.bullet2    {
+    list-style-image: url(image/github.svg);
+}
+
 table{
     border: 1px solid black;
     border-collapse: collapse;
