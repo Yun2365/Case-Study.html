@@ -198,7 +198,8 @@ th{
 
  .layout    {
     float: left;
-    width: 30%;
+    width: 32%;
+    margin: auto;
  }
 
 table    {
