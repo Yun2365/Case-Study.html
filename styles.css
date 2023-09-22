@@ -1,5 +1,6 @@
 body    {
     background-image: url(Image/SocialMedia.webp);
+    opacity:1.0;
     width:100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
