@@ -199,8 +199,7 @@ th{
  .layout    {
     float: left;
     width: 30%;
-    margin-left:5px;
-    margin-right:5px;
+    margin-left:0;
  }
 
 table    {
