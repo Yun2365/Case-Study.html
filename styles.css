@@ -1,5 +1,6 @@
 body    {
     background-image: url(Image/SocialMedia.webp);
+    opacity: 0.5;
     width:100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -134,7 +135,7 @@ a:hover, a:active {
 }
 
 img {
-    width: 20%;
+    width: auto;
     margin-top: 5%;
     margin-left: auto;
     margin-right: auto;
