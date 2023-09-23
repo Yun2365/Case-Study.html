@@ -75,7 +75,7 @@ p       {
     font-style: italic;
     font-size: 100%;
     font-weight: 100;
-    line-height: 80%;
+    line-height: 100%;
 }
 
 .p       {
@@ -172,6 +172,7 @@ ul  {
 
 .bullet2    {
     list-style-image: url(Image/bamboo.png);
+    margin-left:10%;
 }
 
 table{
