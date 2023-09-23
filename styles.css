@@ -212,28 +212,11 @@ table    {
  .week2 {
     margin: 0%;
  }
+          
+.box {
+    box-shadow: 10px 10px 5px lightpurple;
+}
 
-
-          <style>
-                * {box-sizing:border-box;}
-                
-                /* Style the observation */
-                .Observation {background-color: #42b3c2;padding: 20px;text-align: cente}
-                
-                /* Style the top navigation bar */
-                .topnav {overflow: hidden; background-color: #458acf; }
-                
-                /* Style the topnav links */
-                .topnav a {
-                  float:left;
-                  display: block;
-                  color: #000000;
-                  text-align: center;
-                  padding: 14px 16px;
-                  text-decoration: none;}
-                
-                /* Change color on hover */
-                .topnav a:hover {
-                  background-color: #1effe9;
-                  color: black;}
- 
+.text {
+    text-shadow: 2px 2px 5px darkpurple;
+}
