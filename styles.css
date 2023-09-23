@@ -62,8 +62,6 @@ h8      {
 
 .left      {
     text-align: left;
-    margin-left: 8%;
-    margin-right: 8%;
     line-height: 230%;
 }
 
@@ -163,9 +161,8 @@ img {
 }
 
 ul  {
-    margin-left: 3%;
-    margin-right: 5%;
-    border-radius: 50px;
+    margin-left: 8%;
+    margin-right: 8%;
 }
 
 .bullet1    {
@@ -174,8 +171,8 @@ ul  {
 
 .bullet2    {
     list-style-image: url(Image/bamboo.png);
-    margin-left:13%;
-    margin-right:8%;
+    margin-left:15%;
+    margin-right:15%;
 }
 
 table{
