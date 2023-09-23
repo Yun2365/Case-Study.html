@@ -141,7 +141,7 @@ img {
 }
 
 .scope2table {
-    width: auto;
+    width: 60%;
 }
 
 .scope2img {
@@ -199,7 +199,7 @@ th{
  .layout    {
     float: left;
     margin: 0;
-    width: 50%;
+    width: 40%;
  }
 
 table    {
