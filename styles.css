@@ -229,8 +229,9 @@ div {
   background:black;
   transition: width 2s;}
 
-#div1 {transition-timing-function: scope 2;}
-
+.div1 {
+  transition-timing-function: scope 2;
+}
 
 div:hover {
   width: 300px;}
