@@ -62,6 +62,7 @@ h8      {
 
 .left      {
     text-align: left;
+    margin-left: 10%;
     line-height: 230%;
 }
 
@@ -172,7 +173,7 @@ ul  {
 
 .bullet2    {
     list-style-image: url(Image/bamboo.png);
-    margin-left:10%;
+    margin-left:15%;
 }
 
 table{
