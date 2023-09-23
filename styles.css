@@ -221,3 +221,16 @@ table    {
  .week2 {
     margin: 0%;
  }
+
+
+div {
+  width: 200px;
+  height: 100px;
+  background:black;
+  transition: width 2s;}
+
+#div1 {transition-timing-function: linear;}
+
+
+div:hover {
+  width: 300px;}
