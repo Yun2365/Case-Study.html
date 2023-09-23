@@ -32,16 +32,19 @@ div    {
 
 h2      {
     font-size: 350%;
+    text-shadow: 3px 3px 8px darkpurple;
 }
 
 h3      {
     font-size: 300%;
     text-align: centre;
+    text-shadow: 2px 2px 5px darkpurple;
 }
 
 h4      {
     font-size: 250%;
     text-decoration: underline;
+    text-shadow: 1px 1px 3px darkpurple;
 }
 
 h5      {
@@ -133,6 +136,10 @@ a:hover, a:active {
     color:blueviolet;
 }
 
+a:hover {
+    box-shadow: 10px 10px 5px lightpurple;
+}
+
 img {
     margin-top: 5%;
     margin-left: auto;
@@ -212,11 +219,3 @@ table    {
  .week2 {
     margin: 0%;
  }
-          
-.box {
-    box-shadow: 10px 10px 5px lightpurple;
-}
-
-.text {
-    text-shadow: 2px 2px 5px darkpurple;
-}
