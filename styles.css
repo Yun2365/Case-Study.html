@@ -224,7 +224,7 @@ table    {
 
  .menu, .navigation {
     height: 100px;
-    transition: height 1s linear;
+    transition: height 1s ease-in;
 }
 
 .menu:hover, .navigation:hover {
