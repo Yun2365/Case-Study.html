@@ -222,6 +222,10 @@ table    {
     margin: 0%;
  }
 
-.menu:hover, .navigation:hover {
+ .menu, .navigation {
     transition: height 2s linear 1s;
+}
+
+.menu:hover, .navigation:hover {
+    height: 5%;
 }
