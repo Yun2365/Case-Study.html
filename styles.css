@@ -226,12 +226,13 @@ table    {
 
  .menu, .navigation {
     height: 3%;
-    width: 90%
+    width: 90%;
     transition: height 1s width 1s ease-in;
 }
 
 .menu:hover, .navigation:hover {
     height: 5%;
-    width: 100%;
-    margin: 0;
+    width: 95%;
+    margin-left: 0;
+    margin-right: 0;
 }
