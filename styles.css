@@ -222,17 +222,6 @@ table    {
     margin: 0%;
  }
 
-/*
-div {
-  width: 200px;
-  height: 100px;
-  background:black;
-  transition: width 2s;}
-
-.div1 {
-  transition-timing-function: scope 2;
+.menu:hover,.navigation:hover {
+    transition: height 2s linear 1s;
 }
-
-div:hover {
-  width: 300px;}
-*/
