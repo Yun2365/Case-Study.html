@@ -229,4 +229,5 @@ table    {
 
 .menu:hover, .navigation:hover {
     height: 10%;
+    margin: auto;
 }
