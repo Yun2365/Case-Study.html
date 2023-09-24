@@ -223,10 +223,10 @@ table    {
  }
 
  .menu, .navigation {
-    height: 100px;
+    height: 5%;
     transition: height 1s ease-in;
 }
 
 .menu:hover, .navigation:hover {
-    height: 150px;
+    height: 10%;
 }
