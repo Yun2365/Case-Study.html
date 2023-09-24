@@ -225,11 +225,11 @@ table    {
  }
 
  .menu, .navigation {
-    height: 5%;
+    height: 3%;
     transition: height 1s ease-in;
 }
 
 .menu:hover, .navigation:hover {
-    height: 10%;
+    height: 5%;
     margin: auto;
 }
