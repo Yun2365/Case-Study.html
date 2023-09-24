@@ -119,6 +119,8 @@ a {
     margin-left: 20px;
     margin-right: 20px;
     font-size: 115%;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
 video,  iframe   {
