@@ -227,7 +227,7 @@ table    {
  .menu, .navigation {
     height: 4%;
     width: 90%;
-    transition: height 1s width 1s linear;
+    transition: height 1s width 1s easer;
 }
 
 .menu:hover, .navigation:hover {
