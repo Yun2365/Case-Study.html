@@ -142,7 +142,11 @@ a:hover {
     box-shadow: 10px 10px 5px #b19cd9;
     background-color: #301934;
     border-radius: 3px;
-    font-size: 130%;
+    font-size: 145%;
+}
+
+.navigation, .menu {
+    height: 5%;
 }
 
 img {
