@@ -33,6 +33,11 @@ div    {
 h2      {
     font-size: 350%;
     text-shadow: 3px 3px 8px #301934;
+    transition: width 2s, height 2s, transform 2s;
+}
+
+h2:hover    {
+    font-size: 380%;
 }
 
 h3      {
