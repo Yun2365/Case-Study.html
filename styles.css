@@ -33,12 +33,12 @@ div    {
 h2      {
     font-size: 350%;
     text-shadow: 3px 3px 8px #301934;
-    transition: width 2s, height 2s, transform 2s;
-    transition-timing-function: ease-in-out;
 }
 
 h2:hover    {
     font-size: 380%;
+    transition: width 2s, height 2s, transform 2s;
+    transition-timing-function: ease-in-out;
 }
 
 h3      {
@@ -233,7 +233,6 @@ table    {
  .menu, .navigation {
     height: 4%;
     width: 90%;
-    transition: height 1s width 1s ease;
 }
 
 .menu:hover, .navigation:hover {
@@ -241,4 +240,5 @@ table    {
     width: 100%;
     margin-left: 0;
     margin-right: 0;
+    transition: height 1s width 1s ease;
 }
