@@ -35,12 +35,6 @@ h2      {
     text-shadow: 3px 3px 8px #301934;
 }
 
-h2:hover    {
-    font-size: 380%;
-    transition: width 2s, height 2s, transform 2s;
-    transition-timing-function: ease-in-out;
-}
-
 h3      {
     font-size: 300%;
     text-align: centre;
@@ -148,6 +142,7 @@ a:hover {
     box-shadow: 10px 10px 5px #b19cd9;
     background-color: #301934;
     border-radius: 3px;
+    font-size: 130%;
 }
 
 img {
@@ -229,16 +224,3 @@ table    {
  .week2 {
     margin: 0%;
  }
-
- .menu, .navigation {
-    height: 4%;
-    width: 90%;
-}
-
-.menu:hover, .navigation:hover {
-    height: 6%;
-    width: 100%;
-    margin-left: 0;
-    margin-right: 0;
-    transition: height 1s width 1s ease;
-}
